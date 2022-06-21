@@ -5,4 +5,7 @@
 
 ## i mistakenly sent a wrong link. correct link below
 
-https://patoski-patoski.github.io/CSS_FLEXBOX_GRID/
+https://patoski-patoski.github.io/CSS_FLEXBOX_GRID/index.html
+https://patoski-patoski.github.io/CSS_FLEXBOX_GRID/grid.html
+
+
